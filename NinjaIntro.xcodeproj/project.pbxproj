@@ -7,25 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DD67F4C21D98173600A6EAAF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD67F4C11D98173600A6EAAF /* AppDelegate.swift */; };
-		DD67F4C41D98173600A6EAAF /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DD67F4C31D98173600A6EAAF /* GameScene.sks */; };
-		DD67F4C61D98173600A6EAAF /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD67F4C51D98173600A6EAAF /* GameScene.swift */; };
-		DD67F4C81D98173600A6EAAF /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD67F4C71D98173600A6EAAF /* GameViewController.swift */; };
-		DD67F4CB1D98173600A6EAAF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD67F4C91D98173600A6EAAF /* Main.storyboard */; };
-		DD67F4CD1D98173600A6EAAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD67F4CC1D98173600A6EAAF /* Assets.xcassets */; };
-		DD67F4D01D98173600A6EAAF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD67F4CE1D98173600A6EAAF /* LaunchScreen.storyboard */; };
+		DD7789371E0E882300DDF572 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD77892C1E0E882300DDF572 /* AppDelegate.swift */; };
+		DD7789381E0E882300DDF572 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD77892D1E0E882300DDF572 /* Assets.xcassets */; };
+		DD7789391E0E882300DDF572 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD77892E1E0E882300DDF572 /* LaunchScreen.storyboard */; };
+		DD77893A1E0E882300DDF572 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD7789301E0E882300DDF572 /* Main.storyboard */; };
+		DD77893B1E0E882300DDF572 /* GameoverScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7789321E0E882300DDF572 /* GameoverScene.swift */; };
+		DD77893C1E0E882300DDF572 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = DD7789331E0E882300DDF572 /* GameScene.sks */; };
+		DD77893D1E0E882300DDF572 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7789341E0E882300DDF572 /* GameScene.swift */; };
+		DD77893E1E0E882300DDF572 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD7789351E0E882300DDF572 /* GameViewController.swift */; };
+		DD77893F1E0E882300DDF572 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = DD7789361E0E882300DDF572 /* Info.plist */; };
+		DDB8B0691E0E7A9A00F56C81 /* background-music-aac.caf in Resources */ = {isa = PBXBuildFile; fileRef = DDB8B0671E0E7A9A00F56C81 /* background-music-aac.caf */; };
+		DDB8B06A1E0E7A9A00F56C81 /* pew-pew-lei.caf in Resources */ = {isa = PBXBuildFile; fileRef = DDB8B0681E0E7A9A00F56C81 /* pew-pew-lei.caf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DD67F4BE1D98173600A6EAAF /* NinjaIntro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NinjaIntro.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DD67F4C11D98173600A6EAAF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DD67F4C31D98173600A6EAAF /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		DD67F4C51D98173600A6EAAF /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
-		DD67F4C71D98173600A6EAAF /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
-		DD67F4CA1D98173600A6EAAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DD67F4CC1D98173600A6EAAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DD67F4CF1D98173600A6EAAF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DD67F4D11D98173600A6EAAF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD77892A1E0E880E00DDF572 /* NinjaIntro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NinjaIntro.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DD77892C1E0E882300DDF572 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DD77892D1E0E882300DDF572 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DD77892F1E0E882300DDF572 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DD7789311E0E882300DDF572 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DD7789321E0E882300DDF572 /* GameoverScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameoverScene.swift; sourceTree = "<group>"; };
+		DD7789331E0E882300DDF572 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		DD7789341E0E882300DDF572 /* GameScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
+		DD7789351E0E882300DDF572 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		DD7789361E0E882300DDF572 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDB8B0671E0E7A9A00F56C81 /* background-music-aac.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "background-music-aac.caf"; sourceTree = "<group>"; };
+		DDB8B0681E0E7A9A00F56C81 /* pew-pew-lei.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "pew-pew-lei.caf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,32 +49,35 @@
 		DD67F4B51D98173600A6EAAF = {
 			isa = PBXGroup;
 			children = (
-				DD67F4C01D98173600A6EAAF /* NinjaIntro */,
-				DD67F4BF1D98173600A6EAAF /* Products */,
+				DD77892B1E0E882300DDF572 /* NinjaIntro */,
+				DDB8B0661E0E7A9A00F56C81 /* Sounds */,
+				DD77892A1E0E880E00DDF572 /* NinjaIntro.app */,
 			);
 			sourceTree = "<group>";
 		};
-		DD67F4BF1D98173600A6EAAF /* Products */ = {
+		DD77892B1E0E882300DDF572 /* NinjaIntro */ = {
 			isa = PBXGroup;
 			children = (
-				DD67F4BE1D98173600A6EAAF /* NinjaIntro.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		DD67F4C01D98173600A6EAAF /* NinjaIntro */ = {
-			isa = PBXGroup;
-			children = (
-				DD67F4C11D98173600A6EAAF /* AppDelegate.swift */,
-				DD67F4C31D98173600A6EAAF /* GameScene.sks */,
-				DD67F4C51D98173600A6EAAF /* GameScene.swift */,
-				DD67F4C71D98173600A6EAAF /* GameViewController.swift */,
-				DD67F4C91D98173600A6EAAF /* Main.storyboard */,
-				DD67F4CC1D98173600A6EAAF /* Assets.xcassets */,
-				DD67F4CE1D98173600A6EAAF /* LaunchScreen.storyboard */,
-				DD67F4D11D98173600A6EAAF /* Info.plist */,
+				DD77892C1E0E882300DDF572 /* AppDelegate.swift */,
+				DD77892D1E0E882300DDF572 /* Assets.xcassets */,
+				DD77892E1E0E882300DDF572 /* LaunchScreen.storyboard */,
+				DD7789301E0E882300DDF572 /* Main.storyboard */,
+				DD7789321E0E882300DDF572 /* GameoverScene.swift */,
+				DD7789331E0E882300DDF572 /* GameScene.sks */,
+				DD7789341E0E882300DDF572 /* GameScene.swift */,
+				DD7789351E0E882300DDF572 /* GameViewController.swift */,
+				DD7789361E0E882300DDF572 /* Info.plist */,
 			);
 			path = NinjaIntro;
+			sourceTree = "<group>";
+		};
+		DDB8B0661E0E7A9A00F56C81 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				DDB8B0671E0E7A9A00F56C81 /* background-music-aac.caf */,
+				DDB8B0681E0E7A9A00F56C81 /* pew-pew-lei.caf */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -87,7 +97,7 @@
 			);
 			name = NinjaIntro;
 			productName = NinjaIntro;
-			productReference = DD67F4BE1D98173600A6EAAF /* NinjaIntro.app */;
+			productReference = DD77892A1E0E880E00DDF572 /* NinjaIntro.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -97,11 +107,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0800;
 				ORGANIZATIONNAME = "Aditya Batura";
 				TargetAttributes = {
 					DD67F4BD1D98173600A6EAAF = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = DSAP76ABQD;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -114,7 +126,7 @@
 				Base,
 			);
 			mainGroup = DD67F4B51D98173600A6EAAF;
-			productRefGroup = DD67F4BF1D98173600A6EAAF /* Products */;
+			productRefGroup = DD67F4B51D98173600A6EAAF;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -128,10 +140,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD67F4C41D98173600A6EAAF /* GameScene.sks in Resources */,
-				DD67F4D01D98173600A6EAAF /* LaunchScreen.storyboard in Resources */,
-				DD67F4CD1D98173600A6EAAF /* Assets.xcassets in Resources */,
-				DD67F4CB1D98173600A6EAAF /* Main.storyboard in Resources */,
+				DDB8B0691E0E7A9A00F56C81 /* background-music-aac.caf in Resources */,
+				DD77893A1E0E882300DDF572 /* Main.storyboard in Resources */,
+				DD7789391E0E882300DDF572 /* LaunchScreen.storyboard in Resources */,
+				DD7789381E0E882300DDF572 /* Assets.xcassets in Resources */,
+				DD77893C1E0E882300DDF572 /* GameScene.sks in Resources */,
+				DDB8B06A1E0E7A9A00F56C81 /* pew-pew-lei.caf in Resources */,
+				DD77893F1E0E882300DDF572 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -142,29 +157,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DD67F4C61D98173600A6EAAF /* GameScene.swift in Sources */,
-				DD67F4C81D98173600A6EAAF /* GameViewController.swift in Sources */,
-				DD67F4C21D98173600A6EAAF /* AppDelegate.swift in Sources */,
+				DD77893E1E0E882300DDF572 /* GameViewController.swift in Sources */,
+				DD77893D1E0E882300DDF572 /* GameScene.swift in Sources */,
+				DD77893B1E0E882300DDF572 /* GameoverScene.swift in Sources */,
+				DD7789371E0E882300DDF572 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DD67F4C91D98173600A6EAAF /* Main.storyboard */ = {
+		DD77892E1E0E882300DDF572 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DD67F4CA1D98173600A6EAAF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		DD67F4CE1D98173600A6EAAF /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				DD67F4CF1D98173600A6EAAF /* Base */,
+				DD77892F1E0E882300DDF572 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		DD7789301E0E882300DDF572 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				DD7789311E0E882300DDF572 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -184,8 +200,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -207,7 +225,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -229,8 +247,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -246,9 +266,10 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -257,10 +278,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = NinjaIntro/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = adityabatura.NinjaIntro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -268,10 +295,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = NinjaIntro/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = adityabatura.NinjaIntro;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -294,6 +327,7 @@
 				DD67F4D61D98173600A6EAAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
